@@ -1,9 +1,6 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Krunal Y. Jagtap</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<h1 align="center">Hi 🙋‍♂️, I'm Krunal  Jagtap</h1>
 
-- 🔭 I’m currently working on **Front End Development** ⚙
-
-- 🌱 I’m currently learning **JavaScript** 👨‍💻
+<h3 align="center">🌱 I’m currently learning Full Stack Web Development From Cohort 1.0 by Hitesh Choudhary Sir ☕</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
