@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Krunal  Jagtap</h1>
 
-<h3 align="center">Learning Full Stack Web Development From Cohort 1.0 by Hitesh Choudhary and Piyush Garg Sir ☕</h3>
+<h2 align="center">Learning Full Stack Web Development From Cohort 1.0 by Hitesh Choudhary and Piyush Garg Sir ☕</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
