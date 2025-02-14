@@ -15,8 +15,8 @@ Happy to connect with you : )
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal-Jagtap&layout=compact) --->
 ### Tech Stack
 <p align="start">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,github" />
+    <img src="https://gsap.com/apple-touch-icon.png" width="50px" />
   </a>
 </p>
 
