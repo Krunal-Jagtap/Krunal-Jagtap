@@ -10,9 +10,9 @@ Learning Full Stack Development From Cohort <img src="https://fonts.gstatic.com/
 <br>
 <br>
 Happy to connect with you : )
-
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krunal-Jagtap&layout=compact)
-
 ### Tech Stack
 <p align="start">
   <a href="https://skillicons.dev">
