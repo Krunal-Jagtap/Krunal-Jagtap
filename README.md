@@ -1,6 +1,8 @@
+<!--- 
 <p align="center">
  <img width="100%" height="auto"src="https://github.com/user-attachments/assets/a1e5ff8c-d2aa-429a-a25d-1c3a5a873b9c"/img>
 </p>
+---> 
 
 ### <h1> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px"/> Hello I'm Krunal Jagtap</h1>
 Bachelor of Computer Applications ( BCA ) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" width="25px"/>
