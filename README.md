@@ -1,18 +1,18 @@
-<!--- 
-<p align="center">
- <img width="100%" height="auto"src="https://github.com/user-attachments/assets/a1e5ff8c-d2aa-429a-a25d-1c3a5a873b9c"/img>
-</p>
----> 
+<!-- Banner -->
+<p align="center">  
+  <img src="./Assets/left_banner_2.png" alt="banner Image">
+  <br><br>
+<p/>
 
-### <h1> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px"/> Hello I'm Krunal Jagtap</h1>
-Bachelor of Computer Applications ( BCA ) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" width="25px"/>
-<br>
-<br>
-Learning Full Stack Development From Cohort <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" width="20px"/>
-<br>
-<br>
-Check My - <a href="https://simple-dev-blogs.netlify.app/" target="_blank">Simple Deveploment Blogs ↗️</a>
-<br>
+<!-- About Me -->
+
+###  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px"/> Hello there !
+
+- Bachelor of Computer Applications ( BCA ) <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" width="25px"/>
+
+- Learning Full Stack Development From COHORT  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" width="20px"/>
+
+- Check My - <a href="https://simple-dev-blogs.netlify.app/" target="_blank">Simple Deveploment Blogs ↗️</a>
 ### Tech Stack
 <p align="start">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,github" />
