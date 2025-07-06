@@ -11,6 +11,9 @@ Bachelor of Computer Applications ( BCA ) <img src="https://fonts.gstatic.com/s/
 Learning Full Stack Development From Cohort <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" width="20px"/>
 <br>
 <br>
+Check My - <a href="https://simple-dev-blogs.netlify.app/">Simple Deveploment Blogs ↗️</a>
+<br>
+<br>
 Happy to connect with you : )
 <br>
 <br>
