@@ -9,7 +9,7 @@
 - Check My - <a href="https://simple-dev-blogs.netlify.app/" target="_blank">Simple Deveploment Blogs ↗️</a>
 ### Tech Stack
 <p align="start">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,github,git" />
     <img src="https://gsap.com/apple-touch-icon.png" width="50px" />
   </a>
 </p>
