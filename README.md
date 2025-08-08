@@ -1,9 +1,3 @@
-<!-- Banner -->
-<p align="center">  
-  <img src="./Assets/left_banner_2.png" alt="banner Image">
-  <br><br>
-<p/>
-
 <!-- About Me -->
 
 ###  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30px"/> Hello there !
