@@ -18,7 +18,7 @@
 
 ### Tech Stack
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,vscode,github,git" />
     <img src="https://gsap.com/apple-touch-icon.png" width="50px" />
 </p>
 
